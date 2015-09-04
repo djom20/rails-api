@@ -249,3 +249,6 @@ MIT License.
 https://groups.google.com/forum/?fromgroups#!forum/rails-api-core
 
 [ams]: https://github.com/rails-api/active_model_serializers
+
+
+# Att: Ing. Jonathan Olier
